@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalogClock", "AnalogClock\AnalogClock.csproj", "{AD556BE6-FA53-409F-A12E-98148ECA8C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD556BE6-FA53-409F-A12E-98148ECA8C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD556BE6-FA53-409F-A12E-98148ECA8C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD556BE6-FA53-409F-A12E-98148ECA8C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD556BE6-FA53-409F-A12E-98148ECA8C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41884985-A7FC-4C58-BE19-B5CE9AE7F716}
+	EndGlobalSection
+EndGlobal
